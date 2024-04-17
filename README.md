@@ -25,4 +25,5 @@ This code creates a simple grocery list application with HTML for structure, CSS
 
 Feel free to explore the code and customize it to suit your needs!
 
-![Uploading grocer-bud-github.png…]()
+
+![g-bud](https://github.com/Hafsajillani/Grocery-bud/assets/103882246/9d186215-448b-40d6-b803-acfd99fd663a)
